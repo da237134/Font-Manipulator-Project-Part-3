@@ -1,0 +1,26 @@
+.Header {
+    background-color: #31b0d5;
+    color: #fff;
+    font-size: 25px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: aquamarine;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(14, 2, 61);
+    line-height: 3;
+    text-align: center;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  canvas
+  {
+    border: 5px solid aquamarine;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(3, 216, 216);
+    margin-top: 160px;
+  }
